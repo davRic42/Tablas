@@ -1,0 +1,29 @@
+table{
+    border-collapse:collapse ;
+}
+thead, td,th{
+    border: 2px dotted;
+    border-color: rgb(174, 0, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+td{
+    color:#00332e;
+    background-color: #B4F3F7;
+}
+th{
+    background-color: #69EDF5 ;
+    color: #27006e;
+}
+caption{
+    color: #E2F2F7;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: #290738;
+}
+img{
+    height: 400px;
+    width: 600px;
+}
